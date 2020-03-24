@@ -20,8 +20,8 @@ using namespace std;
 int GEN = 0;				//current generation
 double Lnn;					//length of nearest neighbor
 unsigned int vertex_num;	//problem vertex number
-string inputfilename = "data51.txt";
-string outputfilename = "result.txt";
+string inputfilename = "datafile/data51.txt";
+string outputfilename = "datafile/result.txt";
 
 /* objective struct definition */
 struct POS {
